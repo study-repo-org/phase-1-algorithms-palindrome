@@ -30,7 +30,7 @@ function isPalindrome(palindromeWord) {
 /*
   Add written explanation of your solution here
 
-  The function takes a word as input as an argument.
+  The function takes a word as input as an parameter.
   converts the word to lowercase.
   initialized at the beginning and end of the word.
   iterates through it at the ends and center
